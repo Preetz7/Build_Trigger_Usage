@@ -119,6 +119,7 @@ span.forgotpsd a {
       width: 20rem;
     }
   }
+</style>
 </head>
 <body>
     <h1>Login form using HTML and CSS</h1>
