@@ -157,6 +157,8 @@ span.forgotpsd a {
 
             <!-- Submit button -->
             <button type="submit">Login</button>
+            <!-- Sign up link -->
+            <p class="register">Not a member?  <a href="#">Register here!</a></p>
 
            
             
